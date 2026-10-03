@@ -7,3 +7,6 @@ zig-pkg/
 Project/*
 libraylib.a
 **/.DS_Store
+
+.direnv
+.envrc
